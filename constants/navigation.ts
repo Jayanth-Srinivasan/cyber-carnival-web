@@ -16,7 +16,7 @@ const COMMON_NAVIGATION: NavdataCollection = [
 	},
 	{
 		title: 'Events',
-		link: '/#features',
+		link: '/#events',
 		target: '_self',
 	},
 	{

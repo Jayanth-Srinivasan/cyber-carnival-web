@@ -47,7 +47,7 @@ function Header() {
               <Button
                 variant={"secondary"}
                 asChild
-                className="ml-10 rounded-lg border h-12 transition-colors duration-300 ease-in-out text-app-red/80 border-slate-200 bg-transparent py-4 px-6  hover:border-slate-500 hover:bg-[#1e1e1e] hover:shadow-md"
+                className="ml-10 rounded-lg border h-12 transition-colors duration-300 ease-in-out border-slate-500 text-white bg-transparent py-4 px-6  hover:border-slate-400 hover:bg-[#1e1e1e] hover:shadow-md"
               >
                 <Link
                   href={"/"}
